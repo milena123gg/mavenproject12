@@ -1,0 +1,6 @@
+com/mycompany/mavenproject12/resources/JakartaEE8Resource.class
+Config/Conexion.class
+Controlador/Controlador.class
+ModeloDAO/ClienteDAO.class
+Modelo/Cliente.class
+com/mycompany/mavenproject12/JakartaRestConfiguration.class
